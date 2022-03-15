@@ -1,5 +1,14 @@
 
-<h2 align="center"> Seja bem vindo Desenvolvedor <br/> </h2> 
+
+
+
+<h2 align="left"> Seja bem vindo Desenvolvedor <br/> </h2> 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/danilo-coelho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/danilocoelhorc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
 
 <p align="center"><img width=50% src="https://media.sf-converter.com/get?__sig=7A7dWpFUI2ssQNlfSwJHng&__expires=1647302524&uri=https%3A%2F%2Finstagram.fbdo4-1.fna.fbcdn.net%2Fv%2Ft51.2885-15%2F274417580_3124789317797677_117648043307660808_n.webp%3Fstp%3Ddst-jpg_e35_s1080x1080%26_nc_ht%3Dinstagram.fbdo4-1.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DdUSyZgWs-_8AX9MSbtk%26edm%3DAJBgZrYBAAAA%26ccb%3D7-4%26oh%3D00_AT90SMibYeBfQy3tHaxvxz_Z09R5oQ5xIKGcLah2cza24A%26oe%3D6237B19A%26_nc_sid%3D78c662"></p>
 
@@ -92,11 +101,7 @@ ____
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
-<p align="center">
-<a href="https://www.linkedin.com/in/danilo-coelho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/danilocoelhorc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</p>
 
 ____
 
