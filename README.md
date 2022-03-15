@@ -14,7 +14,7 @@
 - 🎧  Ouvinte de um bom rock and roll
 - 🎎  Amante da liberdade e de bons animes
 
-<h3>🛠 Técnologias de domino</h3>
+<h3>🛠 Técnologias que estudo </h3>
 
 - 🌐 HTML | CSS | JavaScript | React 
 - 🔧 Visual Studio code | Git
