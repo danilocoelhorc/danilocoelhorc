@@ -17,7 +17,7 @@
 
 <h3>🛠 Técnologias de domino</h3>
 
-- 🌐 HTML | CSS | JavaScript | Bootstrap 
+- 🌐 HTML | CSS | JavaScript | React 
 - 🔧 Visual Studio code | Git
 
 
