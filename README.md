@@ -11,7 +11,7 @@
 - 👨🏽‍💻  Tecnólogo em Analise e Desenvolvimento de Sistemas
 - 🎓  Estudante Full Stack Developer do programada da Growdev
 - 👥  Experiência com Gestão de pessoas
-- 🎧  Ouvinte de um bom rock in roll
+- 🎧  Ouvinte de um bom rock and roll
 - 🎎  Amante da liberdade e de bons animes
 
 <h3>🛠 Técnologias de domino</h3>
